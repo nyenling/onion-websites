@@ -6,7 +6,7 @@
 
 Fresh in May 2024 - Explore the Dark Web Securely with Our Newest Tor Onion Links. Journey through The Hidden Wiki, Dark Web, and Beyond. Effortlessly Enter Anonymous Digital Realms. #SecureNavigation #TorOnionDiscovery #DarkWebAccess
 
-# Onion Websites 2024 of May 2024's Tor & Onion Links
+# Onion Websites of May 2024's Tor & Onion Links
 
 The Mysteries of TOR - Your Go-To Hub for Guides, Directories, and Deep Web Expeditions via TOR Onion Links.
 
@@ -14,11 +14,11 @@ The Mysteries of TOR - Your Go-To Hub for Guides, Directories, and Deep Web Expe
 
 
 
-## Dark Web Links of May 2024's - Your Gateway to the Depths of the Deep Web and Dark Web Onion Links.
+## Onion Websites of May 2024's - Your Gateway to the Depths of the Deep Web and Dark Web Onion Links.
 
-## 🕵️‍♂️ TOR Resources
+## 🕵️‍♂️ ONION Resources
 
-| 📌 **Resource**      | 🌐 **TOR URLs**                                                                                             | 📖 **Description**                                                   |
+| 📌 **Resource**      | 🌐 **Onion Websites**                                                                                             | 📖 **Description**                                                   |
 |----------------------|------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|
 | **The Hidden Wiki**  | [zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion](http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/index.php/Main_Page) | The primary portal to dark web links.                               |
 | **Onion Links**      | [jaz45aabn5vkemy4jkg4mi4syheisqn2wn2n4fsuitpccdackjwxplad.onion](http://jaz45aabn5vkemy4jkg4mi4syheisqn2wn2n4fsuitpccdackjwxplad.onion) | A regularly updated repository of deep web links.                   |
